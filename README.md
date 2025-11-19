@@ -1,83 +1,71 @@
-<h1 align="center">Hi 👋, I'm Aisyah Humairoh Salsabila</h1>
+# Hello, I'm Aisyah Humairoh Salsabila! 👋
 
-<h3 align="center">
-An Information Systems undergraduate who loves learning new things, passionate about system analysis, and continuously growing with creative and innovative ideas.  
-Currently learning more about DBMS and SQL to strengthen database foundations. 🚀
-</h3>
+### 💻 Information Systems Student | Passionate Learner & Team Player
+🎓 Gunadarma University | 📧 Email: aisyaahhss00@gmail.com | 💼 LinkedIn: [Aisyah Humairoh Salsabila](https://linkedin.com/in/aisyah-humairoh-salsabila)
 
 ---
 
-## 📫 Contact Information
+## About Me
 
-<div align="center">
+I'm an **Information Systems** student with a strong passion for continuous learning and collaborative innovation. I thrive in environments that challenge me to grow both technically and personally while maintaining high integrity in everything I do.
 
-<a href="mailto:aisyaahhss00@gmail.com">
-<img src="https://img.shields.io/badge/Primary_Email-8B0000?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="mailto:aisyahhumairohsalsabila07@gmail.com">
-<img src="https://img.shields.io/badge/Secondary_Email-A52A2A?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/aisyahhumairohsalsabila">
-<img src="https://img.shields.io/badge/LinkedIn_Profile-003399?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+Some highlights about me:
+- 🌱 **Always eager to learn new things** and expand my knowledge horizons
+- 💡 **Creative and innovative thinker** who enjoys solving problems in unique ways
+- ⚡ **High integrity** and strong ethical values in all professional endeavors
+- 👥 **Excellent team player** who thrives in collaborative environments
+- 🚀 **Adaptable and quick learner** ready to take on new challenges
+- 🔭 Currently exploring **System Analysis, Database Design, and Web Development**
 
 ---
 
-## 👩‍💻 About Me
+## 💼 Skills & Technologies
 
-- 🎓 Information Systems student focused on **technology, analysis, and digital solutions**
-- 🧩 Interested in **System Analysis, UI/UX Design, and Machine Learning**
-- 🎨 Creative thinker with innovative approaches to problem-solving
-- 🗄️ Learning **DBMS and SQL** to support system development and data processing
-- 🤝 Adaptive, collaborative, and enjoy working in team-based projects
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Data Science & Analysis:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 🛠️ Skills & Tools
+### Web Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-| Category | Skills & Tools |
-|---------|------------------|
-| **System Analysis** | Use Case, ERD, BPMN, Flowchart, SRS, Wireframing |
-| **UI/UX Design** | Figma, Adobe XD, Canva |
-| **Programming** | Python, SQL, HTML, CSS, JavaScript |
-| **Machine Learning (Learning)** | NumPy, Pandas, scikit-learn |
-| **Tools & Workspace** | Git, GitHub, Notion, Google Workspace |
-
----
-
-## 📘 Currently Learning
-
-- Requirement analysis & business process engineering  
-- UI/UX design methods & usability testing  
-- DBMS structure & SQL querying  
-- Machine learning workflow & data analysis  
-- Web development fundamentals  
+### Database & Tools:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎯 Career Goals
+## 📈 GitHub Statistics
 
-- Build real-world portfolio projects (Analysis + UI/UX + ML + Web)
-- Become a skilled and reliable **System Analyst**
-- Collaborate and contribute in impactful tech-based solutions
-- Strengthen analytical and communication skills  
+![Aisyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisyaahhss00&show_icons=true&theme=radical)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=rose_pine" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=rose_pine" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyaahhss00&layout=compact&theme=radical)
 
 ---
 
-<p align="center">✨ Thanks for visiting! Let's learn, build, and innovate together 🌱🚀</p>
+## 📫 Let's Connect
+
+- 📧 Email: **aisyaahhss00@gmail.com**  
+- 💼 LinkedIn: [Aisyah Humairoh Salsabila](https://linkedin.com/in/aisyah-humairoh-salsabila)  
+- 🐱 GitHub: [aisyaahhss00](https://github.com/aisyaahhss00)
+
+---
+
+*"Embracing curiosity, driving innovation, and building together with integrity."* 🚀
+
+---
+
+⭐️ From [aisyaahhss00](https://github.com/aisyaahhss00)
