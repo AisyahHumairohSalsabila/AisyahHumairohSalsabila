@@ -1,71 +1,79 @@
-# Hello, I'm Aisyah Humairoh Salsabila! 👋
+# 🌸 Hai, I'm Aisyah Humairoh Salsabila
 
-### 💻 Information Systems Student | Passionate Learner & Team Player
-🎓 Gunadarma University | 📧 Email: aisyaahhss00@gmail.com | 💼 LinkedIn: [Aisyah Humairoh Salsabila](https://linkedin.com/in/aisyah-humairoh-salsabila)
+### **An Information Systems student passionate about Data Analysis, IoT, and Machine Learning**
 
----
-
-## About Me
-
-I'm an **Information Systems** student with a strong passion for continuous learning and collaborative innovation. I thrive in environments that challenge me to grow both technically and personally while maintaining high integrity in everything I do.
-
-Some highlights about me:
-- 🌱 **Always eager to learn new things** and expand my knowledge horizons
-- 💡 **Creative and innovative thinker** who enjoys solving problems in unique ways
-- ⚡ **High integrity** and strong ethical values in all professional endeavors
-- 👥 **Excellent team player** who thrives in collaborative environments
-- 🚀 **Adaptable and quick learner** ready to take on new challenges
-- 🔭 Currently exploring **System Analysis, Database Design, and Web Development**
+I love exploring data, building smart systems, and learning emerging technologies!
 
 ---
 
-## 💼 Skills & Technologies
+## 📧 Contact & Socials
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Science & Analysis:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database & Tools:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* **Email:** [aisyaahhss00@gmail.com](mailto:aisyaahhss00@gmail.com)
+* **LinkedIn:** *Aisyah Humairoh Salsabila*
+  [https://www.linkedin.com/in/aisyah-humairoh-salsabila](https://www.linkedin.com/in/aisyah-humairoh-salsabila)
 
 ---
 
-## 📈 GitHub Statistics
+## 👩🏻‍💻 About Me
 
-![Aisyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisyaahhss00&show_icons=true&theme=radical)
+I am an Information Systems student at **Universitas Gunadarma**, passionate about technology and data-driven solutions. Currently in my 7th semester, I focus on:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyaahhss00&layout=compact&theme=radical)
+* 🌱 System Analysis & Database Design
+* 💡 Web Development (Frontend & Backend)
+* 📊 Data Analysis & Visualization
+* 🤖 IoT and Machine Learning
+* 🤝 Strong teamwork, communication skills, and high integrity
 
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **aisyaahhss00@gmail.com**  
-- 💼 LinkedIn: [Aisyah Humairoh Salsabila](https://linkedin.com/in/aisyah-humairoh-salsabila)  
-- 🐱 GitHub: [aisyaahhss00](https://github.com/aisyaahhss00)
+I’m actively seeking internship opportunities in **Data Analysis**, **System Analysis**, or **Web Development**.
 
 ---
 
-*"Embracing curiosity, driving innovation, and building together with integrity."* 🚀
+## 🛠️ Languages & Tools
+
+### 🔹 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### 🔹 Data Science & IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+</p>
+
+### 🔹 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
+
+### 🔹 Database & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
-⭐️ From [aisyaahhss00](https://github.com/aisyaahhss00)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AisyahHumairohSalsabila&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AisyahHumairohSalsabila&layout=compact&theme=radical" height="165">
+</p>
